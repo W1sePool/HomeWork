@@ -32,8 +32,8 @@ def main(one,two):
     elif one > two :
       print("2")
    
-# if __name__ == "__main__":
-  #  main()
+if __name__ == "__main__":
+    main()
 
 
 main ("feaseq34drdfsf","Learn")
